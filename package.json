@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-transform-css-import-require-to-string",
+  "version": "1.0.0",
+  "description": "transform babel import and require to string",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Euheny Bondarovich",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euheny/babel-plugin-transform-css-import-require-to-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/euheny/babel-plugin-transform-css-import-require-to-string/issues"
+  },
+  "homepage": "https://github.com/euheny/babel-plugin-transform-css-import-require-to-string#readme"
+}
