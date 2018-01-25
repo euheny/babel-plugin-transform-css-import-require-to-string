@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-css-import-require-to-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "transform babel import and require to string",
   "main": "lib/index.js",
   "scripts": {
